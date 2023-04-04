@@ -1,15 +1,19 @@
-## Module description
-In the "Application Development" track, you will have the opportunity to discover some of the most used languages and ecosystem in today's industry. It will allow you to discover and master (to some degree) Javascript, Java and C#/.NET development and will delve into the use of the daily tools used in each stack (Gradle, JUnit, NPM, Nuget, ...), as well as you few major libraries (Axios, Netty, Protobuf, ...)
- 
-In this unit in particular, you will discover the creation of a client application (either mobile or desktop) via React-Native, Native Android or UWP. It will be considered that you already know the basics of the choosen development stack and will directly address the aspects specific to the project's development. 
- 
-The project aim to create a client application for a well known social network by consuming its API. 
+# B-CCP-400-NCE-4-1-theplazza
 
-## Skills to acquire
-- Ability to interact with APIs
-- Understanding of authentication protocols (OAuth2)
-- Knowledge of React-Native, Native Android or UWP development environment
-- Knowledge of tools and processes to build and test projects
-- Evaluation, comprehension and implementation of guidelines concerning the UX (user experienceà and UI (user interface)
+## About this project
 
-## PDF of the projects
+This is EPITECH second year project. The main purpose of this project is to learn and understand **multithreading** and how to use **threads** programming.
+
+### tutorials 
+
+> In addition to the bootstrap PDF tutorials provided by the school I referenced these tutorials to understand multithreading.
+
+1. #### videos
+    *[C Programing threads tutorials](https://www.youtube.com/watch?v=uA8X5zNOGw8&list=PL9IEJIKnBJjFZxuqyJ9JqVYmuFZHr7CFM)*
+2. #### docks
+	[C++ Concurrency in Action](https://www.bookstack.cn/books/CPP-Concurrency-In-Action-2ed-2019?tab=comment)
+	
+	[MODERN C++ TUTORIAL](https://www.oreilly.com/library/view/c-concurrency-in/9781617294693/)
+	
+	[C++ Template TUTORIAL](https://downdemo.gitbook.io/cpp-templates-2ed/)
+
