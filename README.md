@@ -9,5 +9,5 @@ In this unit we will tackle the concept of concurrent accesses via the following
 - Organizational and personal (precision etc.) skills 
 - "Group work management" skills 
 
-## PDF of the projects
+## PDF of the project
 [B-CCP-400_plazza.pdf](https://github.com/DumesnyJeremy/tek2_Concurrent-Programming/files/11153847/B-CCP-400_plazza.pdf)
